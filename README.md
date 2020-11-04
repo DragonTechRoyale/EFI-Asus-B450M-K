@@ -3,7 +3,7 @@
 A public repository of my Ryzentosh's EFI (OpenCore)
 
 Specs: 
-CPU: Ryzen 5 3600 @ 4.3Ghz \n
+CPU: Ryzen 5 3600 @ 4.3Ghz 
 GPU: RX 5500XT 8GB Gigabyte Gaming OC 
 RAM: 12GB RAM @ 3000Mhz (HyperX Fury RGB 3200Mhz and an HP 4GB stick, both running 3000Mhz CL15 with XMP)
 SSD: 512GB SKhynix HFM512GDJTNI NVMe 
