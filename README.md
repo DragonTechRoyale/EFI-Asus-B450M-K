@@ -2,6 +2,7 @@
 
 A public repository of my Ryzentosh's EFI (OpenCore)
 
+
 Specs: 
 
 CPU: Ryzen 5 3600 @ 4.3Ghz 
