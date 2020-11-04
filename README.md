@@ -16,6 +16,7 @@ SSD: 512GB SKhynix HFM512GDJTNI NVMe
 MOBO: Asus Prime B450M-K
 
 
+
 Old pictures but still relevant I guess:
 
 ![About This Hack](https://github.com/DragonTechRoyale/EFI-Ryzentosh-Public/blob/master/Screen%20Shot%202020-09-21%20at%2020.06.15.png?raw=true)
