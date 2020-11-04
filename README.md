@@ -1,4 +1,4 @@
-#EFI-Ryzentosh
+# EFI-Ryzentosh
 
 A public repository of my Ryzentosh's EFI (OpenCore)
 
