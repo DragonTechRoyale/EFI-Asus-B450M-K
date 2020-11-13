@@ -8,7 +8,7 @@ Specs:
 
 CPU: Ryzen 5 3600 @ 4.3Ghz (Great CPU)
 
-GPU: RX 5500XT 8GB Gigabyte Gaming OC (don't buy this, it works fine on macOS but it's hot, loud, and crashes frequantly on Windows and Linux)
+GPU: RX 5500XT 8GB Gigabyte Gaming OC (don't buy this, it works fine on macOS but it's hot, loud, and crashes frequantly on Windows and Linux, also terrible gaming performace)
 
 RAM: 12GB RAM @ 3000Mhz (HyperX Fury RGB 3200Mhz and an HP 4GB stick, both running 3000Mhz CL15 with XMP), would recommend at least 16GB@3200Mhz CL16 for Ryzen
 
